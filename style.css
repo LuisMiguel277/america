@@ -9,7 +9,7 @@
     padding: 0px;
 }
 header{
-    height: 90px;
+    height: 70%;
     background-image: linear-gradient(to bottom,#590202,#D90404);
     text-align: left;
     padding: 12px;
@@ -38,7 +38,6 @@ section>a:hover{
     color: #590202;
     border-radius: 10px;
     background-color: white;
-    text-decoration: underline;
 }
 main{
     width: 95%;
